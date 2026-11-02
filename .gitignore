@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# Environment files
+.env
+.envrc
+venv/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Local outputs
+outputs/*.csv
+outputs/*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
